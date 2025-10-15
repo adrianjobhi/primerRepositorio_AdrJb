@@ -4,7 +4,7 @@ Primer repositorio de prueba
 
 
 
-Este repositorio es para probar el \_\_flujo local\_\_ y \_\_remoto\_\_ con el comando git
+Este repositorio es para probar el **flujo local** y **remoto** con el comando git
 
 
 
