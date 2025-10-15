@@ -1,6 +1,6 @@
 # Primer Repositorio AdrJb
 
-Primer repositorio de prueba
+## Primer repositorio de prueba
 
 
 
@@ -8,7 +8,7 @@ Este repositorio es para probar el **flujo local** y **remoto** con el comando g
 
 
 
-1. `git status`
+1.\ `git status`
 
 2\. `git add .`
 
